@@ -9,6 +9,7 @@ Reach out to me via LinkedIn if you would like to see a video demonstration.
 https://www.linkedin.com/in/vincentguo3/
 
 Breakdown of the code:
+
 A card dealing function is created to deal the player with a random card.
 The card randomly dealt is associated with a value and a suit.
 The values of the cards in the player's hand are calculated with a value.
